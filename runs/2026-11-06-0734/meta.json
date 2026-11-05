@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-06-0734",
+  "day": "2026-11-06",
+  "started": "07:34:44",
+  "finished": "07:51:46",
+  "outcome": "部分失败：领取奖励；剿灭待办里没有入口",
+  "stage": "TL-9",
+  "depot": true,
+  "drops": 1,
+  "errors": 2,
+  "annihilation": "待办里没有入口"
+}
