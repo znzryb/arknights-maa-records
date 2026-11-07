@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-07-0842",
+  "day": "2026-11-07",
+  "started": "08:42:06",
+  "finished": "09:08:19",
+  "outcome": "全部完成，TL-9 结算 4 次；剿灭待办里没有入口",
+  "stage": "TL-9",
+  "depot": true,
+  "drops": 4,
+  "errors": 0,
+  "annihilation": "待办里没有入口"
+}
