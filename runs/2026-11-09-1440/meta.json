@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-09-1440",
+  "day": "2026-11-09",
+  "started": "14:40:23",
+  "finished": "14:47:21",
+  "outcome": "部分失败：自动公招、基建换班（无人机 PureGold）、理智作战 TL-8、信用收支、领取奖励、理智作战 PR-A-2（降级）、领取奖励（补领）；剿灭出错 1 次",
+  "stage": "TL-8 → PR-A-2",
+  "depot": false,
+  "drops": 0,
+  "errors": 8,
+  "annihilation": "出错"
+}
