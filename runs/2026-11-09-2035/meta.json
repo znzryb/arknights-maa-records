@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-09-2035",
+  "day": "2026-11-09",
+  "started": "20:35:56",
+  "finished": "20:37:30",
+  "outcome": "失败：开始唤醒自检未通过（不记为已跑，下次触发会重试）",
+  "stage": "",
+  "depot": false,
+  "drops": 0,
+  "errors": 1,
+  "annihilation": "已取消"
+}
