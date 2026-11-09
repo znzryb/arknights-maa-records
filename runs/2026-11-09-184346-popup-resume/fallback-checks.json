@@ -1,0 +1,24 @@
+{
+  "official_sha256": "d02d51004507272843716b87119cdebc94e24dccda28812f69d604e9a28e04ed",
+  "unchanged": true,
+  "results": [
+    {
+      "scenario": "missing",
+      "note": "弹窗恢复未启用：没有对应补丁；继续使用官方核心",
+      "version": "v6.21.4",
+      "official_loaded": true
+    },
+    {
+      "scenario": "mismatch",
+      "note": "弹窗恢复因不兼容或加载失败而禁用：官方核心已更新，文件哈希不匹配；继续使用官方核心",
+      "version": "v6.21.4",
+      "official_loaded": true
+    },
+    {
+      "scenario": "corrupt",
+      "note": "弹窗恢复因不兼容或加载失败而禁用：补丁文件哈希不匹配；继续使用官方核心",
+      "version": "v6.21.4",
+      "official_loaded": true
+    }
+  ]
+}
