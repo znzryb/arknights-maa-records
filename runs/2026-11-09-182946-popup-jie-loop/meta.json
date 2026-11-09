@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-09-182946-popup-jie-loop",
+  "day": "2026-11-09",
+  "started": "18:29:46",
+  "finished": "18:30:38",
+  "outcome": "真机验证失败：RuntimeError",
+  "stage": "",
+  "depot": false,
+  "drops": 0,
+  "errors": 3,
+  "annihilation": ""
+}
