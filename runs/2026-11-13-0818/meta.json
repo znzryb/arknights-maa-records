@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-13-0818",
+  "day": "2026-11-13",
+  "started": "08:18:43",
+  "finished": "08:34:46",
+  "outcome": "全部完成，TL-9 结算 1 次",
+  "stage": "TL-9",
+  "depot": true,
+  "drops": 1,
+  "errors": 0,
+  "annihilation": "已取消"
+}
