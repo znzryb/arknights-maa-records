@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-24-0700",
+  "day": "2026-11-24",
+  "started": "07:00:01",
+  "finished": "07:01:02",
+  "outcome": "异常中止：TimeoutExpired",
+  "stage": "",
+  "depot": false,
+  "drops": 0,
+  "errors": 0,
+  "annihilation": "已取消"
+}
