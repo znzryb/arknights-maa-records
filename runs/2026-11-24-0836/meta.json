@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-24-0836",
+  "day": "2026-11-24",
+  "started": "08:36:05",
+  "finished": "08:38:59",
+  "outcome": "失败：MaaCore 连不上模拟器（不记为已跑，下次触发会重试）",
+  "stage": "",
+  "depot": false,
+  "drops": 0,
+  "errors": 0,
+  "annihilation": "已取消"
+}
