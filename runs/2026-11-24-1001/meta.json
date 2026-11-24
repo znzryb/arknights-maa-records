@@ -1,0 +1,12 @@
+{
+  "run_id": "2026-11-24-1001",
+  "day": "2026-11-24",
+  "started": "10:01:03",
+  "finished": "10:03:21",
+  "outcome": "唤醒 / 库存自检通过（未执行日常、不记为已跑）",
+  "stage": "",
+  "depot": true,
+  "drops": 0,
+  "errors": 0,
+  "annihilation": "已取消"
+}
